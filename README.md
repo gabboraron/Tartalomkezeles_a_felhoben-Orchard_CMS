@@ -1,0 +1,2 @@
+# Tartalomkezeles_a_felhoben-Orchard_CMS
+A félév során két gyakorlott oktató (akik maguk is az Orchard és Orchard-alapú projektek fejlesztői) segít elmerülni az Orchard CMS használatában – felhasználói szemszögből. A félév végére megszerzett tudással a hallgatók könnyen és gyorsan tudnak majd általános célú weboldalakat létrehozni – mindezeket programozói tudás nélkül, a beépített funkciókat felhasználva. Ezek mellett a kliens-oldali technológiák (CSS/JS) felé is elkanyarodunk, amelyek a weboldal kinézetének testreszabásában lesznek segítségünkre.
